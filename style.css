@@ -11,6 +11,10 @@ body{
 }
 nav{
     text-align: center;
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 16pt;
+    color: black;
 }
 h1{
     font-family: Verdana;
@@ -32,10 +36,4 @@ p{
 }
 img{
     padding-left: 20px;
-}
-nav.a{
-    font-family: Verdana;
-    font-weight: bold;
-    font-size: 16pt;
-    color: black;
 }
